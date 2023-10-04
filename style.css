@@ -1,0 +1,40 @@
+body{
+    background-color: #2d3436;
+    
+ }
+
+#main{
+height: 100vh;
+width: 100%;
+display: flex;
+align-items: center;
+justify-content: center;
+flex-direction: column;
+}
+
+.row{
+   
+    /* height: 100px; */
+    width: 700px;
+    /* border: 2px solid white; */
+    margin: 10px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+    color: white;
+   
+}
+
+#search{
+  font-size: 25px;
+  padding: 7px;
+  border-radius: 25px;
+  border: none;
+  outline: none;
+  text-align: center;
+}
+div{
+    padding: 10px;
+}
